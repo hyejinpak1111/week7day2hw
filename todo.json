@@ -1,0 +1,34 @@
+{
+    "todo": [
+        {
+            "title": "Take over Coding Temple",
+            "description": "Take over Coding Temple starting from Lucas and Christopher and work up from there",
+            "tasks": {
+                "Codewars Leaderboard": "Top 1",
+                "Final Project": "Working",
+                "Python Mastery": 4,
+                "Pc": "cool Rgb lights"
+            }
+        },
+        {
+            "title": "Make breakfast",
+            "description": "You have to start the day right by having breakfast",
+            "tasks": {
+                "Get up from bed": true,
+                "Cooking": "A lot",
+                "Prep time": "10 minutes",
+                "utensils": 2
+            }
+        },
+        {
+            "title": "Finish homework",
+            "description": "You won't graduate if you don't finish the homework",
+            "tasks": {
+                "Get on your Computer": "pending",
+                "Stare at the screen": true,
+                "Start Coding": false,
+                "Pop a vessel": true
+            }
+        }
+    ]
+}
